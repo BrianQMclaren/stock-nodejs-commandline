@@ -6,3 +6,4 @@
 </ul>
 
 ![screen shot 2017-07-25 at 7 48 54 pm](https://user-images.githubusercontent.com/19230394/28598564-6a780a64-7172-11e7-8250-7e18fde170d9.png)
+![stockapp image1](https://user-images.githubusercontent.com/19230394/28598797-07a0279e-7174-11e7-88f6-d58066195ecf.png)
